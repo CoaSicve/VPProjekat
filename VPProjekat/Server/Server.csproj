@@ -34,6 +34,7 @@
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
+    <Reference Include="System.Configuration" />
     <Reference Include="System.Core" />
     <Reference Include="System.Data.Services" />
     <Reference Include="System.ServiceModel" />
@@ -45,8 +46,12 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Core\Analitika.cs" />
     <Compile Include="Core\DisposableStreamWriter.cs" />
+    <Compile Include="Core\Events.cs" />
     <Compile Include="Core\FileStorage.cs" />
+    <Compile Include="Core\SessionContext.cs" />
+    <Compile Include="Core\Thresholds.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Service\KancelarijaSensorService.cs" />

@@ -1,0 +1,10 @@
+C:\Users\Aco\source\repos\CoaSicve\VPProjekat\VPProjekat\Client\bin\Debug\Client.exe.config
+C:\Users\Aco\source\repos\CoaSicve\VPProjekat\VPProjekat\Client\bin\Debug\Client.exe
+C:\Users\Aco\source\repos\CoaSicve\VPProjekat\VPProjekat\Client\bin\Debug\Client.pdb
+C:\Users\Aco\source\repos\CoaSicve\VPProjekat\VPProjekat\Client\bin\Debug\Common.dll
+C:\Users\Aco\source\repos\CoaSicve\VPProjekat\VPProjekat\Client\bin\Debug\Common.pdb
+C:\Users\Aco\source\repos\CoaSicve\VPProjekat\VPProjekat\Client\obj\Debug\Client.csproj.AssemblyReference.cache
+C:\Users\Aco\source\repos\CoaSicve\VPProjekat\VPProjekat\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+C:\Users\Aco\source\repos\CoaSicve\VPProjekat\VPProjekat\Client\obj\Debug\Client.csproj.Up2Date
+C:\Users\Aco\source\repos\CoaSicve\VPProjekat\VPProjekat\Client\obj\Debug\Client.exe
+C:\Users\Aco\source\repos\CoaSicve\VPProjekat\VPProjekat\Client\obj\Debug\Client.pdb
