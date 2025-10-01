@@ -1,0 +1,7 @@
+C:\Users\Aco\source\repos\CoaSicve\VPProjekat\VPProjekat\Server\bin\Debug\Server.exe.config
+C:\Users\Aco\source\repos\CoaSicve\VPProjekat\VPProjekat\Server\bin\Debug\Server.exe
+C:\Users\Aco\source\repos\CoaSicve\VPProjekat\VPProjekat\Server\bin\Debug\Server.pdb
+C:\Users\Aco\source\repos\CoaSicve\VPProjekat\VPProjekat\Server\obj\Debug\Server.csproj.AssemblyReference.cache
+C:\Users\Aco\source\repos\CoaSicve\VPProjekat\VPProjekat\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+C:\Users\Aco\source\repos\CoaSicve\VPProjekat\VPProjekat\Server\obj\Debug\Server.exe
+C:\Users\Aco\source\repos\CoaSicve\VPProjekat\VPProjekat\Server\obj\Debug\Server.pdb

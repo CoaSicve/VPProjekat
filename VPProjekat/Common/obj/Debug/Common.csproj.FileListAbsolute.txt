@@ -1,0 +1,6 @@
+C:\Users\Aco\source\repos\CoaSicve\VPProjekat\VPProjekat\Common\bin\Debug\Common.dll
+C:\Users\Aco\source\repos\CoaSicve\VPProjekat\VPProjekat\Common\bin\Debug\Common.pdb
+C:\Users\Aco\source\repos\CoaSicve\VPProjekat\VPProjekat\Common\obj\Debug\Common.csproj.AssemblyReference.cache
+C:\Users\Aco\source\repos\CoaSicve\VPProjekat\VPProjekat\Common\obj\Debug\Common.csproj.CoreCompileInputs.cache
+C:\Users\Aco\source\repos\CoaSicve\VPProjekat\VPProjekat\Common\obj\Debug\Common.dll
+C:\Users\Aco\source\repos\CoaSicve\VPProjekat\VPProjekat\Common\obj\Debug\Common.pdb
