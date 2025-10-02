@@ -8,3 +8,4 @@ C:\Users\Aco\source\repos\CoaSicve\VPProjekat\VPProjekat\Client\obj\Debug\Client
 C:\Users\Aco\source\repos\CoaSicve\VPProjekat\VPProjekat\Client\obj\Debug\Client.csproj.Up2Date
 C:\Users\Aco\source\repos\CoaSicve\VPProjekat\VPProjekat\Client\obj\Debug\Client.exe
 C:\Users\Aco\source\repos\CoaSicve\VPProjekat\VPProjekat\Client\obj\Debug\Client.pdb
+C:\Users\Aco\source\repos\CoaSicve\VPProjekat\VPProjekat\Client\obj\Debug\Client.exe.config

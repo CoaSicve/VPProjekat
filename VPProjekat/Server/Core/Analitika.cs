@@ -6,8 +6,10 @@ namespace Server.Core
     public class AnalyticsEngine
     {
         private readonly Thresholds _thr;
-        private SensorSample _prev; private bool _hasPrev;
-        private long _n; private double _meanV;
+        private SensorSample _prev; 
+        private bool _hasPrev;
+        private long _n; 
+        private double _meanV;
 
         public AnalyticsEngine(Thresholds thr) { _thr = thr; }
         public void Reset() { _prev = null; _hasPrev = false; _n = 0; _meanV = 0; }

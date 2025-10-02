@@ -17,7 +17,7 @@ namespace Client.Csv
 
     public static class CsvReader
     {
-        public static IEnumerable<CsvRow> ReadFirstN(string path, int n, string rejectsLogPath)
+        public static IEnumerable<CsvRow> ReadFirstN(string path, int n, string rejectsLogPath) //cita prvih 100(n) redova
         {
             int count = 0;
             using (var rejects = new StreamWriter(rejectsLogPath, false))
@@ -100,7 +100,7 @@ namespace Client.Csv
             return -1;
         }
 
-        private static bool TryParse(string line, Dictionary<string, int> m, out CsvRow row, out string reason)
+        private static bool TryParse(string line, Dictionary<string, int> m, out CsvRow row, out string reason) //
         {
             row = null; reason = null;
             var parts = line.Split(',');

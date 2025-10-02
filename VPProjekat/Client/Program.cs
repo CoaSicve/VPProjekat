@@ -13,7 +13,7 @@ namespace Client
         {
             Console.WriteLine("Start klijentske strane. ");
 
-            string csvPath = @"C:\Users\Aco\source\repos\CoaSicve\VPProjekat\VPProjekat\AirPi Data - AirPi.csv";
+            string csvPath = Path.Combine(AppDomain.CurrentDomain.BaseDirectory, "AirPi Data - AirPi.csv");
             string rejectsLog = Path.Combine(AppDomain.CurrentDomain.BaseDirectory, "client_rejects.log");
 
             var binding = new NetTcpBinding("tcpStream"); binding.Security.Mode = SecurityMode.None;
